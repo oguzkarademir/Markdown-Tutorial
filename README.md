@@ -1,3 +1,3 @@
 # Markdown-Tutorial
 
-New change on notepad
+This is only an educational document.
