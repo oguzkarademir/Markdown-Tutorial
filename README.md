@@ -1,3 +1,3 @@
 # Markdown-Tutorial
 
-This is only an educational document.
+This is just an training document.
